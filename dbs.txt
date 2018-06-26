@@ -1,0 +1,4 @@
+1 what is database
+2 how is works, based on vary kind of dbs
+3 necessity
+4 compare redis mongo mysql 

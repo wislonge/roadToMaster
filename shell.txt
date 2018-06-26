@@ -1,0 +1,21 @@
+
+awk 命令
+
+cat blebike.log | awk '!a[$0]{a[$0]=1;print}' > bleDedupedBikes.txt
+awk '/!matchString/ {print $0}'
+
+grep 命令
+
+
+docker 命令
+
+top 命令
+
+less命令
+
+
+
+
+
+
+
