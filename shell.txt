@@ -3,6 +3,9 @@ awk 命令
 
 cat blebike.log | awk '!a[$0]{a[$0]=1;print}' > bleDedupedBikes.txt
 awk '/!matchString/ {print $0}'
+awk '/![0-9]/ {print}' 打印所有非数字开头的
+awk '/^0/ {print}' 打印所有0开头的item
+
 
 grep 命令
 
@@ -12,6 +15,10 @@ docker 命令
 top 命令
 
 less命令
+
+shift+g 到底部
+/matchString n 下一个 shift+n 上一个
+
 
 
 
