@@ -8,7 +8,8 @@
 
 -----
 # 3 about stock:
-	
+	## https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners
+	## pandas in 10 mins: https://pandas.pydata.org/pandas-docs/stable/10min.html	
 -----
 # 4 welcome to add your thoughts
 
