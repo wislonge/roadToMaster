@@ -8,7 +8,7 @@
 
 -----
 # 3 about stock:
-	[pandas in 10 mins](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+	pandas in 10 mins: https://pandas.pydata.org/pandas-docs/stable/10min.html)
 		
 -----
 # 4 welcome to add your thoughts
